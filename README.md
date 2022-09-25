@@ -5,6 +5,11 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 
 **Discord** invite link for for communication and questions: https://discord.gg/zSq8rtW
 
+## Change Log:
+
+Recompiled version with compiled files！
+Fixed the reading problem in OpneCV3.4 and later versions！
+
 ## YOLOv7: 
 
 * **paper** - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors: https://arxiv.org/abs/2207.02696
